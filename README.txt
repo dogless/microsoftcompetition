@@ -1,3 +1,3 @@
-Microsoft Competition
+Micro$oft Competition
 ====================
 hi
