@@ -1,3 +1,2 @@
 Micro$oft Competition
 ====================
-hi
